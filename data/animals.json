@@ -135,6 +135,17 @@
         "hungry"
       ],
       "id": "13"
+    },
+    {
+      "name": "Test",
+      "species": "Cat",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "anxious",
+        "loving",
+        "goofy"
+      ],
+      "id": "14"
     }
   ]
 }
