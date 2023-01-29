@@ -10,13 +10,14 @@
   * [License](#license)
 
   ## Description
-  Web server using the Express.js framework, added to a front-end application, and deployed via Heroku.
+  Web server using the Express.js framework, added to a front-end application, and deployed via Heroku. Tests included (Jest).
 
     Built Using:
     
     JavaScript
     Node.js
     Express.js
+    Jest
  
   ## Screenshot
   ![image](https://user-images.githubusercontent.com/89672040/215297102-010dc36e-e8f8-485e-a75b-173885986a2e.png)
