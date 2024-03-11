@@ -23,7 +23,7 @@
   ![image](https://user-images.githubusercontent.com/89672040/215297102-010dc36e-e8f8-485e-a75b-173885986a2e.png)
   
   ## Live
-  Live: New Heroku deoplyment link coming soon!
+  Live: https://zookeepr001-3d18298fc421.herokuapp.com
   
   ## Repository
   Repo: https://github.com/xdatalinq/zookeepr
